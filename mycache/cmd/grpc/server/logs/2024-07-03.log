@@ -1,0 +1,3 @@
+time="2024-07-03 18:26:04" level=info msg="created a grpc server!"
+time="2024-07-03 18:26:04" level=info msg="register localhost:8001 to etcd localhost:2379"
+time="2024-07-03 18:26:04" level=info msg="key=/mycache/GroupCache/localhost:8001"

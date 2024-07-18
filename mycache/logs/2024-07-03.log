@@ -1,0 +1,2 @@
+time="2024-07-03 17:58:40" level=info msg="register localhost:8001 to etcd localhost:2379"
+time="2024-07-03 17:58:40" level=info msg="key=/mycache/GroupCache/localhost:8001"
